@@ -1,3 +1,4 @@
+```
 1. 
 makedir <dir_name>
 python2 -m venv venv
@@ -20,3 +21,5 @@ python3 manage.py runserver
 django-admin startapp <app_name>
 models.py -> create class
 
+
+```
