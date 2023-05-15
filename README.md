@@ -19,5 +19,6 @@ python3 manage.py runserver
 
 4.
 django-admin startapp <app_name>
+add <app_name> to settings.installed_apps
 models.py -> create class
 ```
