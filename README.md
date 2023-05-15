@@ -1,5 +1,4 @@
-```
-1. 
+```1. 
 makedir <dir_name>
 python2 -m venv venv
 touch requirements.txt
@@ -19,7 +18,4 @@ python3 manage.py runserver
 
 4.
 django-admin startapp <app_name>
-models.py -> create class
-
-
-```
+models.py -> create class```
