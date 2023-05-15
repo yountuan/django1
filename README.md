@@ -1,4 +1,4 @@
-```1. 
+``` 1. 
 makedir <dir_name>
 python2 -m venv venv
 touch requirements.txt
